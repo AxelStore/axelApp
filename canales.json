@@ -1,122 +1,56 @@
-[
-  {
-    "categoria": "🇦🇷 ARGENTINA",
-   "canales": 
+val categorias = mapOf(
+
+    "📰 NOTICIAS" to listOf(
+        Canal(
+            "TN",
+            "",
+            ""
+        ),
+        Canal(
             "C5N",
-       "https://dots.bestleague.world/cvatt.html?get=QzVO"
-       "https://es.wikipedia.org/wiki/Archivo:C5N_Logo_2015.PNG"
-]
-      { "nombre": "El Trece", "url": "", "logo": "" },
-      { "nombre": "América TV", "url": "", "logo": "" },
-      { "nombre": "Canal 9", "url": "", "logo": "" },
-      { "nombre": "TV Pública", "url": "", "logo": "" },
-      { "nombre": "A24", "url": "", "logo": "" },
-      { "nombre": "Crónica TV", "url": "", "logo": "" },
-      { "nombre": "TN", "url": "", "logo": "" },
-      { "nombre": "Canal 26", "url": "", "logo": "" },
-      { "nombre": "C5N", "url": "", "logo": "" }
-    ]
-  },
-  {
-    "categoria": "⚽ DEPORTES",
-    "canales": [
-      { "nombre": "TyC Sports", "url": "", "logo": "" },
-      { "nombre": "TyC Sports 2", "url": "", "logo": "" },
-      { "nombre": "ESPN", "url": "", "logo": "" },
-      { "nombre": "ESPN 2", "url": "", "logo": "" },
-      { "nombre": "ESPN 3", "url": "", "logo": "" },
-      { "nombre": "ESPN Premium", "url": "", "logo": "" },
-      { "nombre": "Fox Sports", "url": "", "logo": "" },
-      { "nombre": "Fox Sports 2", "url": "", "logo": "" },
-      { "nombre": "DSports", "url": "", "logo": "" },
-      { "nombre": "Golf Channel", "url": "", "logo": "" }
-    ]
-  },
-  {
-    "categoria": "🎬 CINE & SERIES",
-    "canales": [
-      { "nombre": "HBO", "url": "", "logo": "" },
-      { "nombre": "HBO 2", "url": "", "logo": "" },
-      { "nombre": "HBO Family", "url": "", "logo": "" },
-      { "nombre": "HBO Plus", "url": "", "logo": "" },
-      { "nombre": "Star Channel", "url": "", "logo": "" },
-      { "nombre": "Warner Channel", "url": "", "logo": "" },
-      { "nombre": "Sony Channel", "url": "", "logo": "" },
-      { "nombre": "AXN", "url": "", "logo": "" },
-      { "nombre": "TNT", "url": "", "logo": "" },
-      { "nombre": "TNT Series", "url": "", "logo": "" },
-      { "nombre": "Paramount Channel", "url": "", "logo": "" },
-      { "nombre": "Studio Universal", "url": "", "logo": "" }
-    ]
-  },
-  {
-    "categoria": "👶 INFANTILES",
-    "canales": [
-      { "nombre": "Cartoon Network", "url": "", "logo": "" },
-      { "nombre": "Boomerang", "url": "", "logo": "" },
-      { "nombre": "Disney Channel", "url": "", "logo": "" },
-      { "nombre": "Disney Junior", "url": "", "logo": "" },
-      { "nombre": "Nickelodeon", "url": "", "logo": "" },
-      { "nombre": "Nick Jr", "url": "", "logo": "" },
-      { "nombre": "Discovery Kids", "url": "", "logo": "" }
-    ]
-  },
-  {
-    "categoria": "📰 NOTICIAS",
-    "canales": [
-      { "nombre": "CNN en Español", "url": "", "logo": "" },
-      { "nombre": "CNN International", "url": "", "logo": "" },
-      { "nombre": "BBC World News", "url": "", "logo": "" },
-      { "nombre": "DW Español", "url": "", "logo": "" },
-      { "nombre": "France 24", "url": "", "logo": "" },
-      { "nombre": "RT Noticias", "url": "", "logo": "" }
-    ]
-  },
-  {
-    "categoria": "🎵 MUSICA",
-    "canales": [
-      { "nombre": "MTV", "url": "", "logo": "" },
-      { "nombre": "MTV Hits", "url": "", "logo": "" },
-      { "nombre": "MTV 00s", "url": "", "logo": "" },
-      { "nombre": "HTV", "url": "", "logo": "" },
-      { "nombre": "VH1", "url": "", "logo": "" }
-    ]
-  },
-  {
-    "categoria": "🌎 INTERNACIONAL",
-    "canales": [
-      { "nombre": "Telemundo", "url": "", "logo": "" },
-      { "nombre": "Univision", "url": "", "logo": "" },
-      { "nombre": "Antena 3", "url": "", "logo": "" },
-      { "nombre": "TVE Internacional", "url": "", "logo": "" }
-    ]
-  },
-  {
-    "categoria": "📚 CULTURA & DOCUMENTALES",
-    "canales": [
-      { "nombre": "Discovery Channel", "url": "", "logo": "" },
-      { "nombre": "National Geographic", "url": "", "logo": "" },
-      { "nombre": "Nat Geo Wild", "url": "", "logo": "" },
-      { "nombre": "History Channel", "url": "", "logo": "" },
-      { "nombre": "Animal Planet", "url": "", "logo": "" }
-    ]
-  },
-  {
-    "categoria": "🎭 NOVELAS Y VARIEDADES",
-    "canales": [
-      { "nombre": "Pasiones", "url": "", "logo": "" },
-      { "nombre": "TLNovelas", "url": "", "logo": "" },
-      { "nombre": "Canal de las Estrellas", "url": "", "logo": "" },
-      { "nombre": "RCN Novelas", "url": "", "logo": "" }
-    ]
-  },
-  {
-    "categoria": "✝️ CANALES CRISTIANOS",
-    "canales": [
-      { "nombre": "Enlace", "url": "", "logo": "" },
-      { "nombre": "TBN", "url": "", "logo": "" },
-      { "nombre": "Canal Luz", "url": "", "logo": "" },
-      { "nombre": "Nuevo Tiempo", "url": "", "logo": "" }
-    ]
-  }
-]
+            "",
+            ""
+        ),
+        Canal(
+            "A24",
+            "https://dots.bestleague.world/cvatt.html?get=QW1lcmljYTI0",
+            "https://es.wikipedia.org/wiki/A24#/media/Archivo:A24_(2025).svg"
+        ),
+        Canal(
+            "Crónica TV",
+            "",
+            ""
+        )
+    ),
+
+    "⚽ DEPORTES" to listOf(
+        Canal(
+            "TyC Sports",
+            "",
+            ""
+        ),
+        Canal(
+            "ESPN",
+            "",
+            ""
+        )
+    ),
+
+    "🎬 CINE & SERIES" to listOf(
+        Canal(
+            "HBO",
+            "",
+            ""
+        )
+    ),
+
+    "👶 INFANTILES" to listOf(
+        Canal(
+            "Cartoon Network",
+            "",
+            ""
+        )
+    )
+
+)
+
