@@ -1,11 +1,11 @@
 [
   {
     "categoria": "🇦🇷 ARGENTINA",
-    "canales": [
-      { "nombre": "Telefe", "url": "https://dots.bestleague.world/cvatt.html?get=VGVsZWZlSEQ=" 
-        "logo":"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Telefe_logo_2022.png/512px-Telefe_logo_2022.png"},
-
-    
+     ),
+        Canal(
+            "C5N",
+       "https://dots.bestleague.world/cvatt.html?get=QzVO"
+       "https://es.wikipedia.org/wiki/Archivo:C5N_Logo_2015.PNG"
 ]
       { "nombre": "El Trece", "url": "", "logo": "" },
       { "nombre": "América TV", "url": "", "logo": "" },
