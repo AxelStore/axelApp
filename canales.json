@@ -1,56 +1,12 @@
-val categorias = mapOf(
-
-    "📰 NOTICIAS" to listOf(
-        Canal(
-            "TN",
-            "",
-            ""
-        ),
-        Canal(
-            "C5N",
-            "",
-            ""
-        ),
-        Canal(
-            "A24",
-            "https://dots.bestleague.world/cvatt.html?get=QW1lcmljYTI0",
-            "https://es.wikipedia.org/wiki/A24#/media/Archivo:A24_(2025).svg"
-        ),
-        Canal(
-            "Crónica TV",
-            "",
-            ""
-        )
-    ),
-
-    "⚽ DEPORTES" to listOf(
-        Canal(
-            "TyC Sports",
-            "",
-            ""
-        ),
-        Canal(
-            "ESPN",
-            "",
-            ""
-        )
-    ),
-
-    "🎬 CINE & SERIES" to listOf(
-        Canal(
-            "HBO",
-            "",
-            ""
-        )
-    ),
-
-    "👶 INFANTILES" to listOf(
-        Canal(
-            "Cartoon Network",
-            "",
-            ""
-        )
-    )
-
-)
-
+[
+  {
+    "categoria": "📰 NOTICIAS",
+    "canales": [
+      {
+        "nombre": "A24",
+        "url": "https://dots.bestleague.world/cvatt.html?get=QW1lcmljYTI0",
+        "logo": "https://es.wikipedia.org/wiki/A24#/media/Archivo:A24_(2025).svg"
+      }
+    ]
+  }
+]
