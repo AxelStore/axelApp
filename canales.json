@@ -3,9 +3,10 @@
     "categoria": "🇦🇷 ARGENTINA",
     "canales": [
       { "nombre": "Telefe", "url": "https://dots.bestleague.world/cvatt.html?get=VGVsZWZlSEQ=" 
-        "logo":"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Telefe_logo_2022.png/512px-Telefe_logo_2022.png"
+        "logo":"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Telefe_logo_2022.png/512px-Telefe_logo_2022.png"},
 
-     
+    
+]
       { "nombre": "El Trece", "url": "", "logo": "" },
       { "nombre": "América TV", "url": "", "logo": "" },
       { "nombre": "Canal 9", "url": "", "logo": "" },
