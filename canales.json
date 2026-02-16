@@ -1,12 +1,80 @@
 [
   {
-    "categoria": "📰 NOTICIAS",
-    "canales": [
-      {
-        "nombre": "A24",
-        "url": "https://dots.bestleague.world/cvatt.html?get=QW1lcmljYTI0",
-        "logo": "https://es.wikipedia.org/wiki/A24#/media/Archivo:A24_(2025).svg"
-      }
-    ]
+    "categoria": "🇦🇷 ARGENTINA",
+    "canales": []
+  {
+      "nombre": "A24",
+      "url": "https://dots.bestleague.world/cvatt.html?get=QW1lcmljYTI0",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png"
+    },
+    {
+      
+  {
+    "categoria": "🇦🇷 SENSA ARGENTINA",
+    "canales": []
+  },
+  {
+    "categoria": "🌎 INTERNACIONAL",
+    "canales": []
+  },
+  {
+    "categoria": "⚽ TyC Sports Play",
+    "canales": []
+  },
+  {
+    "categoria": "⚽ PACK FÚTBOL ARGENTINO",
+    "canales": []
+  },
+  {
+    "categoria": "⚽ DEPORTES",
+    "canales": []
+  },
+  {
+    "categoria": "⚽ DEPORTES BRASIL",
+    "canales": []
+  },
+  {
+    "categoria": "🎬 PACK HBO I",
+    "canales": []
+  },
+  {
+    "categoria": "🎬 PACK HBO II",
+    "canales": []
+  },
+  {
+    "categoria": "🎥 PACK UNIVERSAL I",
+    "canales": []
+  },
+  {
+    "categoria": "🎥 PACK UNIVERSAL II",
+    "canales": []
+  },
+  {
+    "categoria": "📺 CINE & SERIES",
+    "canales": []
+  },
+  {
+    "categoria": "👶 INFANTILES",
+    "canales": []
+  },
+  {
+    "categoria": "👨‍👩‍👧 SERIES INFANTILES",
+    "canales": []
+  },
+  {
+    "categoria": "🐢 CULTURA",
+    "canales": []
+  },
+  {
+    "categoria": "📺 NOVELAS Y VARIEDADES",
+    "canales": []
+  },
+  {
+    "categoria": "🍿 PLUTO TV",
+    "canales": []
+  },
+  {
+    "categoria": "🙏 CANALES CRISTIANOS",
+    "canales": []
   }
 ]
