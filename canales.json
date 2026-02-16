@@ -1,32 +1,37 @@
 [
   {
-    "nombre": "Telefe",
-    "url": "https://dots.bestleague.world/cvatt.html?get=VGVsZWZlSEQ=",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Telefe_logo_2022.png",
-    "categoria": "General"
+    "categoria": "🇦🇷 ARGENTINA",
+    "canales": [
+      {
+        "nombre": "Telefe",
+        "url": "https://dots.bestleague.world/cvatt.html?get=VGVsZWZlSEQ=",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Telefe_logo_2022.png/512px-Telefe_logo_2022.png"
+      },
+      {
+        "nombre": "El Trece",
+        "url": "https://dots.bestleague.world/cvatt.html?get=QXJ0ZWFySEQ",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/El_Trece_logo_2018.png/512px-El_Trece_logo_2018.png"
+      }
+    ]
   },
   {
-    "nombre": "El Trece",
-    "url": "https://dots.bestleague.world/cvatt.html?get=QXJ0ZWFySEQ",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/52/El_Trece_logo_2018.png",
-    "categoria": "General"
+    "categoria": "⚽ DEPORTES",
+    "canales": [
+      {
+        "nombre": "ESPN",
+        "url": "https://teledeportes.top/ch.php?id=espn1co",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png"
+      }
+    ]
   },
   {
-    "nombre": "America TV",
-    "url": "https://dots.bestleague.world/cvatt.html?get=QW1lcmljYVRW",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/60/Am%C3%A9rica_TV_logo.svg",
-    "categoria": "General"
-  },
-  {
-    "nombre": "TN",
-    "url": "https://dots.bestleague.world/cvatt.html?get=VG9kb05vdGljaWFz",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Todo_Noticias_logo.png",
-    "categoria": "Noticias"
-  },
-  {
-    "nombre": "ESPN",
-    "url": "https://teledeportes.top/ch.php?id=espn1co",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg",
-    "categoria": "Deportes"
+    "categoria": "🎬 CINE & SERIES",
+    "canales": [
+      {
+        "nombre": "TNT Novelas",
+        "url": "https://tu_link",
+        "logo": "https://tu_logo_png"
+      }
+    ]
   }
 ]
