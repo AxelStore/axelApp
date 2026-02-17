@@ -1,115 +1,122 @@
-{
-  "categoria": "🇦🇷 ARGENTINA",
-  "canales": [
-    {
-      "nombre": "Telefe",
-      "url": "https://dots.bestleague.world/cvatt.html?get=VGVsZWZlSEQ=",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png"
-    },
-    {
-      "nombre": "El Trece",
-      "url": "https://dots.bestleague.world/cvatt.html?get=QXJ0ZWFySEQ",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1e/El_Trece_logo_2016.png"
-    },
-    {
-      "nombre": "América TV",
-      "url": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/59/Am%C3%A9rica_TV_logo.png"
-    },
-    {
-      "nombre": "Canal 9",
-      "url": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Canal_9_logo_2021.png"
-    },
-    {
-      "nombre": "TV Pública",
-      "url": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4e/TV_Publica_logo_2020.png"
-    },
-    {
-      "nombre": "A24",
-      "url": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/82/A24_2021_logo.png"
-    },
-    {
-      "nombre": "TN",
-      "url": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6e/TN_logo.png"
-    },
-    {
-      "nombre": "C5N",
-      "url": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/C5N_logo.png"
-    },
-    {
-      "nombre": "Crónica TV",
-      "url": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cronica_TV_logo.png"
-    },
-    {
-      "nombre": "Canal 26",
-      "url": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Canal_26_logo.png"
-    },
-    {
-      "nombre": "La Nación+",
-      "url": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0c/La_Nacion%2B_logo.png"
-    },
-    {
-      "nombre": "IP Noticias",
-      "url": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/30/IP_Noticias_logo.png"
-    },
-    {
-      "nombre": "DeporTV",
-      "url": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6f/DeporTV_logo.png"
-    },
-    {
-      "nombre": "Encuentro",
-      "url": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Canal_Encuentro_logo.png"
-    },
-    {
-      "nombre": "Pakapaka",
-      "url": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Pakapaka_logo.png"
-    },
-    {
-      "nombre": "Net TV",
-      "url": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Net_TV_logo.png"
-    }
-  ]
-}
-{
-  "categoria": "🇦🇷 CÓRDOBA CAPITAL",
-  "canales": [
-    {
-      "nombre": "El Doce TV",
-      "url": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/12/El_Doce_TV_logo.png"
-    },
-    {
-      "nombre": "Canal 10 Córdoba",
-      "url": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_10_Cordoba_logo.png"
-    },
-    {
-      "nombre": "Teleocho",
-      "url": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/56/Teleocho_logo.png"
-    },
-    {
-      "nombre": "CBA24N",
-      "url": "",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f2/CBA24N_logo.png"
-    },
-    {
-      "nombre": "Canal C",
-      "url": "",
-      "logo": ""
-    }
-  ]
-}
+[
+  {
+    "categoria": "🇦🇷 ARGENTINA",
+    "canales": [
+      {
+        "nombre": "Telefe",
+        "url": "https://dots.bestleague.world/cvatt.html?get=VGVsZWZlSEQ=",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png"
+      },
+      {
+        "nombre": "El Trece",
+        "url": "https://dots.bestleague.world/cvatt.html?get=QXJ0ZWFySEQ",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1e/El_Trece_logo_2016.png"
+      },
+      {
+        "nombre": "América TV",
+        "url": "https://dots.bestleague.world/cvatt.html?get=QW1lcmljYVRW",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/59/Am%C3%A9rica_TV_logo.png"
+      },
+      {
+        "nombre": "Canal 9",
+        "url": "https://dots.bestleague.world/cvatt.html?get=Q2FuYWw5",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Canal_9_logo_2021.png"
+      },
+      {
+        "nombre": "TV Pública",
+        "url": "https://dots.bestleague.world/cvatt.html?get=Q2FuYWw3",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4e/TV_Publica_logo_2020.png"
+      }
+    ]
+  },
+  {
+    "categoria": "🇦🇷 CÓRDOBA CAPITAL",
+    "canales": [
+      {
+        "nombre": "El Doce TV",
+        "url": "",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/12/El_Doce_TV_logo.png"
+      },
+      {
+        "nombre": "Canal 10 Córdoba",
+        "url": "",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_10_Cordoba_logo.png"
+      }
+    ]
+  },
+  {
+    "categoria": "⚽ PACK FÚTBOL ARGENTINO",
+    "canales": [
+      {
+        "nombre": "TNT Sports",
+        "url": "",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6f/TNT_Sports_logo.png"
+      },
+      {
+        "nombre": "ESPN Premium",
+        "url": "",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg.png"
+      }
+    ]
+  },
+  {
+    "categoria": "⚽ DEPORTES",
+    "canales": [
+      {
+        "nombre": "TyC Sports",
+        "url": "",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5f/TyC_Sports_logo.png"
+      },
+      {
+        "nombre": "ESPN",
+        "url": "",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg.png"
+      }
+    ]
+  },
+  {
+    "categoria": "🍿 CINE & SERIES",
+    "canales": [
+      {
+        "nombre": "HBO",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "nombre": "Cinecanal",
+        "url": "",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "categoria": "📚 CULTURA & DOCUMENTALES",
+    "canales": [
+      {
+        "nombre": "Discovery Channel",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "nombre": "History Channel",
+        "url": "",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "categoria": "👶 INFANTILES",
+    "canales": [
+      {
+        "nombre": "Cartoon Network",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "nombre": "Disney Channel",
+        "url": "",
+        "logo": ""
+      }
+    ]
+  }
+]
